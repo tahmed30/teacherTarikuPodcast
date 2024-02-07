@@ -1,2 +1,2 @@
 # teacherTarikuPodcast
-@YouTube 
+This is a Podcast for the YouTube.com/@teachertariku 
